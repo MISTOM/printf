@@ -75,4 +75,4 @@ The width and precision fields can be provided as integers beginning with a non-
 4. `_printf("%r\n", "foo")` produces `oof`.
 
 ### Author
-KIGARDE THOMAS [Linkedin]("https://www.linkedin.com/in/kigarde-thomas/")
+KIGARDE THOMAS [LinkedIn](https://www.linkedin.com/in/kigarde-thomas/ 'KIGARDE THOMAS')
